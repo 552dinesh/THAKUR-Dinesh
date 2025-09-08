@@ -5,6 +5,9 @@ image: images.jpg
 #   - functional diversity
 ---
 
-Learning about the natural world just by contemplating it
+Learning about the natural world by studying functional traits it
 
 ![](images.jpg)
+
+
+Dataset related to article: ['Aspect outweighs elevation in influencing plant functioning at high elevations of Himalaya"](https://doi.org/10.5281/zenodo.17077833)
