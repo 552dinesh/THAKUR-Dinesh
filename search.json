@@ -7,18 +7,11 @@
     "text": "Meta-Soil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecurrent droughts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrait Based Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Datasets/Open data Networking.html",
-    "href": "Datasets/Open data Networking.html",
-    "title": "Climate",
+    "objectID": "Datasets.html",
+    "href": "Datasets.html",
+    "title": "Datasets",
     "section": "",
-    "text": "Climate data from underrepresented regions_Himalaya\n“Submitted to Microclimate Database”"
-  },
-  {
-    "objectID": "Datasets/Trait based ecology.html",
-    "href": "Datasets/Trait based ecology.html",
-    "title": "Trait Based Ecology",
-    "section": "",
-    "text": "Learning about the natural world just by contemplating it"
+    "text": "International Research Network Participation\nSplots; Microclimate Database (MDB), formrerly SoilTemp; TRY, SPUN, RRN\nMajor Research Datasets\n\nMetabolomic datasets; 2. Trait datasets_Himalaya and Europe; 3. Soil microbial diversity datasets_Himalaya; 4. Species Abundance dataset_Himalaya; 5 Climatic Dataset_Western Himalaya; 6.Rhododendron specific datasets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh altitude Himalaya leaf trait dataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHimFunDiff MSCA Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecurrent droughts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoot Metabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStructural vs viochemical traits\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrait Based Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Datasets/Molecular interactions ecology.html",
@@ -35,6 +28,20 @@
     "text": "“Differential effect of climate of origin and cultivation climate on structural and biochemical plant traits’\n Fig. Principal component analysis showing covariation patterns of studied structural (in bold) and biochemical traits. DEPS, xanthophyll cycle de-epoxidation state; SOD, superoxide dismutase."
   },
   {
+    "objectID": "Datasets/Himalayan trait scaling relationships- Thakur et al 2019.html",
+    "href": "Datasets/Himalayan trait scaling relationships- Thakur et al 2019.html",
+    "title": "High altitude Himalaya leaf trait dataset",
+    "section": "",
+    "text": "“Increase in light interception cost and metabolic mass component of leaves are coupled for efficient resource use in the high altitude vegetation”\n\nRelationship between log-log scaling exponents of W–A and A–M relationship for various species. A=leaf area; M=leaf dry mass; W=leaf water mass. Shaded areas represent the 95% confidence intervals."
+  },
+  {
+    "objectID": "Datasets/Population and Community ecology.html",
+    "href": "Datasets/Population and Community ecology.html",
+    "title": "Metabolomic Differentiation",
+    "section": "",
+    "text": "A metabolomic approach to tough questions in ecology at high resolution"
+  },
+  {
     "objectID": "Blog.html",
     "href": "Blog.html",
     "title": "Blog",
@@ -42,64 +49,15 @@
     "text": "The value of high resolution ecology\n\n\n\nEco-Metabolomics\n\n\n\nSome thoughts about it\n\n\n\n\n\nAug 26, 2025\n\n\nDinesh Thakur\n\n\n\n\n\n\n\n\n\n\n\n\nPlant Diversity\n\n\n\nDiversity\n\n\n\nSome thoughts about it\n\n\n\n\n\nOct 20, 2024\n\n\nDInesh Thakur\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Datasets.html",
-    "href": "Datasets.html",
-    "title": "Datasets",
-    "section": "",
-    "text": "International Research Network Participation\nSplots; Microclimate Database (MDB), formrerly SoilTemp; TRY, SPUN, RRN\nMajor Research Datasets\n\nMetabolomic datasets; 2. Trait datasets_Himalaya and Europe; 3. Soil microbial diversity datasets_Himalaya; 4. Species Abundance dataset_Himalaya; 5 Climatic Dataset_Western Himalaya; 6.Rhododendron specific datasets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh altitude Himalaya leaf trait dataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHimFunDiff MSCA Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecurrent droughts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoot Metabolomic Differentiation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStructural vs viochemical traits\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrait Based Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/HimFunDiff.html",
-    "href": "projects/HimFunDiff.html",
+    "objectID": "projects/Open data Networking.html",
+    "href": "projects/Open data Networking.html",
     "title": "Metabolomic Differentiation",
     "section": "",
     "text": "A metabolomic approach to tough questions in ecology at high resolution"
-  },
-  {
-    "objectID": "projects/Trait based ecology.html",
-    "href": "projects/Trait based ecology.html",
-    "title": "Trait Based Ecology",
-    "section": "",
-    "text": "Learning about the natural world by studying functional traits it\n\nDataset related to article: ’Aspect outweighs elevation in influencing plant functioning at high elevations of Himalaya”"
   },
   {
     "objectID": "projects/Diversity and distribution.html",
     "href": "projects/Diversity and distribution.html",
-    "title": "Metabolomic Differentiation",
-    "section": "",
-    "text": "A metabolomic approach to tough questions in ecology at high resolution"
-  },
-  {
-    "objectID": "projects/Molecular interactions ecology.html",
-    "href": "projects/Molecular interactions ecology.html",
-    "title": "Metabolomic Differentiation",
-    "section": "",
-    "text": "A metabolomic approach to tough questions in ecology at high resolution"
-  },
-  {
-    "objectID": "projects/Soil metabolomes.html",
-    "href": "projects/Soil metabolomes.html",
-    "title": "Meta-Soil",
-    "section": "",
-    "text": "Role of soil metabolomes in influencing plant functioning.\n\nThis project integrates controlled-environment experiments to disentangle how soil metabolomes regulate plant functioning. Specifically, it examines whether metabolomic influences on plant growth, physiology, and biochemical strategies are contingent on plant origin and the climatic conditions in which plants are cultivated. By linking soil biochemical complexity with plant responses across origins and climates, the project will provide mechanistic insights into plant–soil interactions and their role in shaping ecological adaptation under global change."
-  },
-  {
-    "objectID": "projects/Physiological ecology.html",
-    "href": "projects/Physiological ecology.html",
-    "title": "Metabolomic Differentiation",
-    "section": "",
-    "text": "A metabolomic approach to tough questions in ecology at high resolution"
-  },
-  {
-    "objectID": "projects/Recurrent droughts.html",
-    "href": "projects/Recurrent droughts.html",
-    "title": "Recurrent droughts",
-    "section": "",
-    "text": "Understanding recurrent effects on plants to ecosystems"
-  },
-  {
-    "objectID": "projects/Population and Community ecology.html",
-    "href": "projects/Population and Community ecology.html",
     "title": "Metabolomic Differentiation",
     "section": "",
     "text": "A metabolomic approach to tough questions in ecology at high resolution"
@@ -112,18 +70,53 @@
     "text": "A metabolomic approach to tough questions in ecology at high resolution"
   },
   {
-    "objectID": "projects/Open data Networking.html",
-    "href": "projects/Open data Networking.html",
+    "objectID": "projects/Population and Community ecology.html",
+    "href": "projects/Population and Community ecology.html",
     "title": "Metabolomic Differentiation",
     "section": "",
     "text": "A metabolomic approach to tough questions in ecology at high resolution"
   },
   {
-    "objectID": "Publications.html",
-    "href": "Publications.html",
-    "title": "Publications",
+    "objectID": "projects/HimFunDiff.html",
+    "href": "projects/HimFunDiff.html",
+    "title": "Metabolomic Differentiation",
     "section": "",
-    "text": "“Link to ORCID ID”\n“Link to Google Scholar”\nThakur D, Rathore N, Jandová V, Münzbergová Z, Dolezal J (2025). “Shift from acquisitive to conservative plant strategies with increasing drought and temperature extremes in an alpine shrub”. Preprint, BioRxiv. Accepted in Annals of Botany. https://doi.org/10.1101/2025.06.26.661801\nBanerjee S, Rathore N, Semerád J, Cajthaml T, Münzbergová Z, Thakur D. (2025). “Soil moisture and its interaction with temperature determine root metabolomes of a Himalayan alpine shrub”. Physiologia Plantarum.https://doi.org/10.1111/ppl.70444\nManavalan, M, Thakur, D, Schaumberger, A, Bahn, M, & Münzbergová, Z. (2025). “Global Change Factors differentially impact Floral and Leaf Economic Traits”. Preprint, BioRxiv. Accepted in Annals of Botany. https://doi.org/10.1101/2025.05.15.654190\nThakur, D., & Chawla, A. (2025).“Aspect outweighs elevation in influencing plant functioning at high elevations of Himalaya”, Accepted in Plant Ecology - Coming soon\nBhatt, T., Rathore, N., Semerad, J., Cajthaml, T., Thakur, D., & Munzbergova, Z. (2025). “Drought and methyl jasmonate memory interact to determine plant functioning under current drought stress in a perennial grass”. Preprint, BioRxiv, 2025.08.03.668340. https://doi.org/10.1101/2025.08.03.668340\nBhatt, T., and Thakur, D., and Munzbergova, Z. (2025) “Unveiling the Interactive Dynamics: Recurring Drought, Methyl Jasmonate, and Plant Performance in a Perennial Grass”. BioRxiv Preprint. Also Available at SSRN: https://ssrn.com/abstract=5070067.\nDaniel Lusk, Sophie Wolf, Daria Svidzinska, Carsten F. Dormann, Jens Kattge, Helge Bruelheide, Francesco Maria Sabatini, Gabriella Damasceno, Álvaro Moreno Martínez, Cyrille Violle, Daniel Hending, Georg J. A. Hähn, Solana Tabeni, Shyam Phartyal, Fernando Gonçalves, Holger Kreft, Marco Schmidt, Han Chen, Behlül Güler, Jiri Dolezal, Remigiusz Pielech, Anaclara Guido, Ciara Dwyer, Francesca Napoleone, Jacob Willie, André Luís Gasper, Manuel J. Macía, Milan Chytry, Jonathan Lenoir, Dinesh Thakur, Jürgen Dengler, Sebastian Świerszcz, Jan Altman, Ladislav Mucina, Ashish N. Nerlekar, Kaoru Kakinuma, Pravin Rawat, Zvjezdana Stančić, Riccardo Testolin, Mohamed Z. Hatim, Flávio Rodrigues, Jürgen Homeier, Marcia C. M. Marques, James K. McCarthy, M. A. El-Sheikh, Teja Kattenborn (2025).“From smartphones to satellites: Uniting crowdsourced biodiversity monitoring and Earth observation to fill the gaps in global plant trait mapping” bioRxiv 2025.03.10.641660; doi: https://doi.org/10.1101/2025.03.10.641660\nRathore, N., Hanzelková, V., Dostálek, T., Thakur, D., & Münzbergová, Z. (2025). “Invasive species are more homogenous in their root morphology and exudate metabolome than non-invasive alien species”. Environmental and Experimental Botany, 229, 106057. https://doi.org/10.1016/J.ENVEXPBOT.2024.106057\nThakur D. et al. (2024). “Global warming alters Himalayan alpine shrub growth dynamics and climate sensitivity”. Science of the Total Environment, 916:170252. https://www.sciencedirect.com/science/article/pii/S0048969724003875\nThakur, D. et al. (2023). “Differential effect of climate of origin and cultivation climate on structural and biochemical plant traits”. Functional Ecology. 2023;37:1436–1448.https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14291\nThakur, D., & Münzbergová, Z. (2022). “Rhizome trait scaling relationships are modulated by growth conditions and are linked to plant fitness”. Annals of Botany, 129(5), 529–540. https://academic.oup.com/aob/article/129/5/529/6532026\nThakur, D., Rathore, N., & Chawla, A. (2019). “Increase in light interception cost and metabolic mass component of leaves are coupled for efficient resource use in the high altitude vegetation”. Oikos, 128(2), 254–263.https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.05538\nThakur, D., & Chawla, A. (2019). “Functional diversity along elevational gradients in the high altitude vegetation of the western Himalaya”. Biodiversity and Conservation, 28(8–9), 1977–1996.\nThakur, D. et al. (2021). “Identification of ecological factors affecting the occurrence and abundance of Dactylorhiza hatagirea (D.Don) Soo in the Himalaya”. Journal of Applied Research on Medicinal and Aromatic Plants, 20(April 2020), 100286. https://doi.org/10.1016/j.jarmap.2020.100286\nThakur, D. Singh, L., & Chawla, A. (2020). “Reliability of leaf functional traits after delayed measurements”. Australian Journal of Botany, 68(2), 100–107. https://doi.org/10.1071/BT19166\nRathore, N., Thakur, D. et al. (2021). “Time-series eco-metabolomics reveals extensive reshuffling in metabolome during transition from cold acclimation to de-acclimation in an alpine shrub”. Physiologia Plantarum, 173(4), 1824–1840.\nRathore, N., Thakur, D., & Chawla, A. (2018). “Seasonal variations coupled with elevation gradient drives significant changes in eco-physiological and biogeochemical traits of a high altitude evergreen broadleaf shrub, Rhododendron anthopogon”. Plant Physiology and Biochemistry, 132(May), 708–719. https://doi.org/10.1016/j.plaphy.2018.08.009\nSingh, L., Thakur, D. et al. (2021). “Dynamics of leaf litter decomposition in the timberline zone of western Himalaya”. Acta Oecologica, 111, 103715.\nThakur, D. et al. (2018) “Enhanced reproductive success revealed key strategy for persistence of devastated populations in Himalayan food-deceptive orchid, Dactylorhiza hatagirea”. Plant Species Biology (2018) 33, 191–202."
+    "text": "A metabolomic approach to tough questions in ecology at high resolution"
+  },
+  {
+    "objectID": "projects/Soil metabolomes.html",
+    "href": "projects/Soil metabolomes.html",
+    "title": "Meta-Soil",
+    "section": "",
+    "text": "Role of soil metabolomes in influencing plant functioning.\n\nThis project integrates controlled-environment experiments to disentangle how soil metabolomes regulate plant functioning. Specifically, it examines whether metabolomic influences on plant growth, physiology, and biochemical strategies are contingent on plant origin and the climatic conditions in which plants are cultivated. By linking soil biochemical complexity with plant responses across origins and climates, the project will provide mechanistic insights into plant–soil interactions and their role in shaping ecological adaptation under global change."
+  },
+  {
+    "objectID": "projects/Recurrent droughts.html",
+    "href": "projects/Recurrent droughts.html",
+    "title": "Recurrent droughts",
+    "section": "",
+    "text": "Understanding recurrent effects on plants to ecosystems"
+  },
+  {
+    "objectID": "projects/Physiological ecology.html",
+    "href": "projects/Physiological ecology.html",
+    "title": "Metabolomic Differentiation",
+    "section": "",
+    "text": "A metabolomic approach to tough questions in ecology at high resolution"
+  },
+  {
+    "objectID": "projects/Trait based ecology.html",
+    "href": "projects/Trait based ecology.html",
+    "title": "Trait Based Ecology",
+    "section": "",
+    "text": "Learning about the natural world by studying functional traits it\n\nDataset related to article: ’Aspect outweighs elevation in influencing plant functioning at high elevations of Himalaya”"
+  },
+  {
+    "objectID": "projects/Molecular interactions ecology.html",
+    "href": "projects/Molecular interactions ecology.html",
+    "title": "Metabolomic Differentiation",
+    "section": "",
+    "text": "A metabolomic approach to tough questions in ecology at high resolution"
   },
   {
     "objectID": "index.html",
@@ -144,7 +137,21 @@
     "href": "index.html#research-expertise-and-interests",
     "title": "Dinesh Thakur, PhD",
     "section": "Research Expertise and Interests",
-    "text": "Research Expertise and Interests\nTrait based ecology; Experimental ecology; Global change Ecology; Eco-metabolomics - molecular interactions ecology; Plant environment interactions; Alpine Ecology; Ecosystem Ecology; Climate adaptation; Trait evolution; Plant and Ecosystem Multifunctionality; Nutrient Recycling and Reuse\n##Research ID\n“AAL-2676-2020”\n##Prsonal Information\nNationality: India; Current residency: Czech Republic\nMarried"
+    "text": "Research Expertise and Interests\nTrait based ecology; Experimental ecology; Global change Ecology; Eco-metabolomics - molecular interactions ecology; Plant environment interactions; Alpine Ecology; Ecosystem Ecology; Climate adaptation; Trait evolution; Plant and Ecosystem Multifunctionality; Nutrient Recycling and Reuse"
+  },
+  {
+    "objectID": "index.html#research-id",
+    "href": "index.html#research-id",
+    "title": "Dinesh Thakur, PhD",
+    "section": "Research ID",
+    "text": "Research ID\n“AAL-2676-2020”"
+  },
+  {
+    "objectID": "index.html#prsonal-information",
+    "href": "index.html#prsonal-information",
+    "title": "Dinesh Thakur, PhD",
+    "section": "Prsonal Information",
+    "text": "Prsonal Information\nNationality: India; Current residency: Czech Republic\nMarital status: Married Father of a Daughter"
   },
   {
     "objectID": "index.html#education",
@@ -161,13 +168,6 @@
     "text": "Experience\n• Current position Since January 2025 - Researcher, “Department of Population Ecology, Institute of Botany of the Czech Academy of Sciences (IBOT-CAS), Czech Republic”. • Previous positions Jan, 2021- Dec. 2024 - Post-Doctoral Researcher, Department of Population Ecology, Institute of Botany of the Czech Academy of Sciences (IBOT-CAS), Czech Republic.\n2021-2023 Marie Skłodowska-Curie Action - Widening Fellow Department of Population Ecology, IBOT, CAS, Czech Republic.\n2022-2023 Visiting Researcher (two months) Helmholtz Centre for Environmental Research – UFZ Halle, Germany in November 2022 and February 2023 with Prof. Ingolf Kühn.\nJan-Mar, 2020 Post-Doctoral Researcher CSIR-IHBT, Palampur, India.\n2013-2015 Junior research fellow CSIR-IHBT, Palampur, India.\n2015-2018 Senior research fellow CSIR-IHBT, Palampur, India.\n• Research Interests and Expertise My research interests lie at the interface of global change ecology, functional ecology, and molecular interactions, with a focus on how biodiversity patterns and plant–environment interactions shape plant performance and ecosystem functioning under climate stress. I am particularly motivated by advancing eco-metabolomics as a novel lens for understanding ecosystem resilience, linking biochemical pathways with community dynamics and ecosystem processes. My expertise spans field ecology and controlled experiments, trait-based and phylogenetic approaches, and eco-metabolomics workflows, including data acquisition, annotation, and ecological informatics. I also have strong skills in statistical modelling, trait scaling, and ecosystem modelling, which I use to bridge organismal strategies with ecosystem-level outcomes. With experience in alpine ecosystems, trait evolution, and species identification, I bring a multi-scale perspective that integrates molecular, community, and ecosystem dimensions. This interdisciplinary background positions me to develop innovative frameworks for predicting ecosystem responses to recurrent drought and other global change drivers."
   },
   {
-    "objectID": "Datasets/Physiological ecology.html",
-    "href": "Datasets/Physiological ecology.html",
-    "title": "Metabolomic Differentiation",
-    "section": "",
-    "text": "A metabolomic approach to tough questions in ecology at high resolution"
-  },
-  {
     "objectID": "Datasets/Recurrent droughts.html",
     "href": "Datasets/Recurrent droughts.html",
     "title": "Recurrent droughts",
@@ -175,18 +175,18 @@
     "text": "Understanding recurrent effects on plants to ecosystems"
   },
   {
-    "objectID": "Datasets/Population and Community ecology.html",
-    "href": "Datasets/Population and Community ecology.html",
+    "objectID": "Datasets/Physiological ecology.html",
+    "href": "Datasets/Physiological ecology.html",
     "title": "Metabolomic Differentiation",
     "section": "",
     "text": "A metabolomic approach to tough questions in ecology at high resolution"
   },
   {
-    "objectID": "Datasets/Himalayan trait scaling relationships- Thakur et al 2019.html",
-    "href": "Datasets/Himalayan trait scaling relationships- Thakur et al 2019.html",
-    "title": "High altitude Himalaya leaf trait dataset",
+    "objectID": "Datasets/Trait based ecology.html",
+    "href": "Datasets/Trait based ecology.html",
+    "title": "Trait Based Ecology",
     "section": "",
-    "text": "“Increase in light interception cost and metabolic mass component of leaves are coupled for efficient resource use in the high altitude vegetation”\n\nRelationship between log-log scaling exponents of W–A and A–M relationship for various species. A=leaf area; M=leaf dry mass; W=leaf water mass. Shaded areas represent the 95% confidence intervals."
+    "text": "Learning about the natural world just by contemplating it"
   },
   {
     "objectID": "Datasets/Floral variation.html",
@@ -194,5 +194,19 @@
     "title": "HimFunDiff MSCA Project",
     "section": "",
     "text": "Functional differentiation in response to environmental variability in two contrasting shrub line species of high-altitude Himalaya: HimFunDiff\n\nThakur et al (2024). “Global warming alters Himalayan alpine shrub growth dynamics and climate sensitivity.”\nBanerjee S, Rathore N, Semerád J, Cajthaml T, Münzbergová Z, Thakur D. (2025). “Soil moisture and its interaction with temperature determine root metabolomes of a Himalayan alpine shrub”\nComming soon - Shift from acquisitive to conservative plant strategies with increasing drought and temperature extremes in an alpine shrub"
+  },
+  {
+    "objectID": "Datasets/Open data Networking.html",
+    "href": "Datasets/Open data Networking.html",
+    "title": "Climate",
+    "section": "",
+    "text": "Climate data from underrepresented regions_Himalaya\n“Submitted to Microclimate Database”"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "“Link to ORCID ID”\n“Link to Google Scholar”\nThakur D, Rathore N, Jandová V, Münzbergová Z, Dolezal J (2025). “Shift from acquisitive to conservative plant strategies with increasing drought and temperature extremes in an alpine shrub”. Preprint, BioRxiv. Accepted in Annals of Botany. https://doi.org/10.1101/2025.06.26.661801\nBanerjee S, Rathore N, Semerád J, Cajthaml T, Münzbergová Z, Thakur D. (2025). “Soil moisture and its interaction with temperature determine root metabolomes of a Himalayan alpine shrub”. Physiologia Plantarum.https://doi.org/10.1111/ppl.70444\nManavalan, M, Thakur, D, Schaumberger, A, Bahn, M, & Münzbergová, Z. (2025). “Global Change Factors differentially impact Floral and Leaf Economic Traits”. Preprint, BioRxiv. Accepted in Annals of Botany. https://doi.org/10.1101/2025.05.15.654190\nThakur, D., & Chawla, A. (2025).“Aspect outweighs elevation in influencing plant functioning at high elevations of Himalaya”, Accepted in Plant Ecology - Coming soon\nBhatt, T., Rathore, N., Semerad, J., Cajthaml, T., Thakur, D., & Munzbergova, Z. (2025). “Drought and methyl jasmonate memory interact to determine plant functioning under current drought stress in a perennial grass”. Preprint, BioRxiv, 2025.08.03.668340. https://doi.org/10.1101/2025.08.03.668340\nBhatt, T., and Thakur, D., and Munzbergova, Z. (2025) “Unveiling the Interactive Dynamics: Recurring Drought, Methyl Jasmonate, and Plant Performance in a Perennial Grass”. BioRxiv Preprint. Also Available at SSRN: https://ssrn.com/abstract=5070067.\nDaniel Lusk, Sophie Wolf, Daria Svidzinska, Carsten F. Dormann, Jens Kattge, Helge Bruelheide, Francesco Maria Sabatini, Gabriella Damasceno, Álvaro Moreno Martínez, Cyrille Violle, Daniel Hending, Georg J. A. Hähn, Solana Tabeni, Shyam Phartyal, Fernando Gonçalves, Holger Kreft, Marco Schmidt, Han Chen, Behlül Güler, Jiri Dolezal, Remigiusz Pielech, Anaclara Guido, Ciara Dwyer, Francesca Napoleone, Jacob Willie, André Luís Gasper, Manuel J. Macía, Milan Chytry, Jonathan Lenoir, Dinesh Thakur, Jürgen Dengler, Sebastian Świerszcz, Jan Altman, Ladislav Mucina, Ashish N. Nerlekar, Kaoru Kakinuma, Pravin Rawat, Zvjezdana Stančić, Riccardo Testolin, Mohamed Z. Hatim, Flávio Rodrigues, Jürgen Homeier, Marcia C. M. Marques, James K. McCarthy, M. A. El-Sheikh, Teja Kattenborn (2025).“From smartphones to satellites: Uniting crowdsourced biodiversity monitoring and Earth observation to fill the gaps in global plant trait mapping” bioRxiv 2025.03.10.641660; doi: https://doi.org/10.1101/2025.03.10.641660\nRathore, N., Hanzelková, V., Dostálek, T., Thakur, D., & Münzbergová, Z. (2025). “Invasive species are more homogenous in their root morphology and exudate metabolome than non-invasive alien species”. Environmental and Experimental Botany, 229, 106057. https://doi.org/10.1016/J.ENVEXPBOT.2024.106057\nThakur D. et al. (2024). “Global warming alters Himalayan alpine shrub growth dynamics and climate sensitivity”. Science of the Total Environment, 916:170252. https://www.sciencedirect.com/science/article/pii/S0048969724003875\nThakur, D. et al. (2023). “Differential effect of climate of origin and cultivation climate on structural and biochemical plant traits”. Functional Ecology. 2023;37:1436–1448.https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14291\nThakur, D., & Münzbergová, Z. (2022). “Rhizome trait scaling relationships are modulated by growth conditions and are linked to plant fitness”. Annals of Botany, 129(5), 529–540. https://academic.oup.com/aob/article/129/5/529/6532026\nThakur, D., Rathore, N., & Chawla, A. (2019). “Increase in light interception cost and metabolic mass component of leaves are coupled for efficient resource use in the high altitude vegetation”. Oikos, 128(2), 254–263.https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.05538\nThakur, D., & Chawla, A. (2019). “Functional diversity along elevational gradients in the high altitude vegetation of the western Himalaya”. Biodiversity and Conservation, 28(8–9), 1977–1996.\nThakur, D. et al. (2021). “Identification of ecological factors affecting the occurrence and abundance of Dactylorhiza hatagirea (D.Don) Soo in the Himalaya”. Journal of Applied Research on Medicinal and Aromatic Plants, 20(April 2020), 100286. https://doi.org/10.1016/j.jarmap.2020.100286\nThakur, D. Singh, L., & Chawla, A. (2020). “Reliability of leaf functional traits after delayed measurements”. Australian Journal of Botany, 68(2), 100–107. https://doi.org/10.1071/BT19166\nRathore, N., Thakur, D. et al. (2021). “Time-series eco-metabolomics reveals extensive reshuffling in metabolome during transition from cold acclimation to de-acclimation in an alpine shrub”. Physiologia Plantarum, 173(4), 1824–1840.\nRathore, N., Thakur, D., & Chawla, A. (2018). “Seasonal variations coupled with elevation gradient drives significant changes in eco-physiological and biogeochemical traits of a high altitude evergreen broadleaf shrub, Rhododendron anthopogon”. Plant Physiology and Biochemistry, 132(May), 708–719. https://doi.org/10.1016/j.plaphy.2018.08.009\nSingh, L., Thakur, D. et al. (2021). “Dynamics of leaf litter decomposition in the timberline zone of western Himalaya”. Acta Oecologica, 111, 103715.\nThakur, D. et al. (2018) “Enhanced reproductive success revealed key strategy for persistence of devastated populations in Himalayan food-deceptive orchid, Dactylorhiza hatagirea”. Plant Species Biology (2018) 33, 191–202."
   }
 ]
