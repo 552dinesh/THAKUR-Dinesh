@@ -1,6 +1,6 @@
 ---
 title: "Meta-Soil"
-image: Plantagoexp.jpg
+image: Soilmeta.png
 # categories: 
 #   - Ecometabolomics
 ---
@@ -8,5 +8,6 @@ image: Plantagoexp.jpg
 Role of soil metabolomes in influencing plant functioning.
 
 ![](Plantagoexp.jpg)
+
 
 This project integrates controlled-environment experiments to disentangle how soil metabolomes regulate plant functioning. Specifically, it examines whether metabolomic influences on plant growth, physiology, and biochemical strategies are contingent on plant origin and the climatic conditions in which plants are cultivated. By linking soil biochemical complexity with plant responses across origins and climates, the project will provide mechanistic insights into plant–soil interactions and their role in shaping ecological adaptation under global change.
