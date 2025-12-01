@@ -11,7 +11,7 @@ Ability of plant species to adapt along natural gradients.
 
 Map showing the study area in Western Himalaya with five distant regions (R1 to R5). Region 5 is the coldest and driest and region 3 is the wettest and warmer also. Photo in the upper right shows Rhododendron anthopogon, the focal species. Each region, includes three populations along elevation gradient (lower limit, mid and higher limit). 
 
-
+# Functional differentiation in response to environmental variability in two contrasting shrub line species of high-altitude Himalaya: HimFunDiff
 
 ## Summary
 
