@@ -1,6 +1,6 @@
 ---
-title: "Metabolomic Differentiation"
-image: Root.jpg
+title: "HimFunDiff"
+image: rhodoleaf.jpg
 # categories: 
 #   - Ecometabolomics
 ---
