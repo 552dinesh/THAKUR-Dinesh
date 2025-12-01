@@ -1,10 +1,11 @@
 ---
 title: "HimFunDiff"
-image: rhodoleaf.jpg
+image: rhodoleaf.png
 # categories: 
 #   - Ecometabolomics
 ---
 
 A metabolomic approach to tough questions in ecology at high resolution
 
-![](Root.jpg)
+![](rhodoleaf.png)
+Map showing the study area in Western Himalaya with five distant regions (R1 to R5). Region 5 is the coldest and driest and region 3 is the wettest and warmer also. Photo in the upper right shows Rhododendron anthopogon, the focal species. Each region, includes three populations along elevation gradient (lower limit, mid and higher limit). 
